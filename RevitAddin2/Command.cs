@@ -30,7 +30,7 @@ namespace RevitAddin2
                 selectedElement = doc.GetElement(id);
                 break;  // just get one selected element
             }
-            // gittest 2
+            // gittest 2 Delete
             // Get the category instance from the Category property
             Category category = selectedElement.Category;
 
